@@ -6,6 +6,17 @@
     <title>Aura Browser</title>
     <description>Aura Browser update feed</description>
     <language>en</language>
+    <item>
+      <title>Version 0.7.36 (Build 46)</title>
+      <pubDate>Sat, 13 Jun 2026 15:34:16 -0500</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>0.7.36</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/mattewrobles/aura-releases/releases/download/v0.7.36/Aura-0.7.36.dmg"
+                 type="application/octet-stream"
+                 sparkle:edSignature="9LjP8EbgBlqxPUeYZNp10YiJILRVeA2F1UMw8P11nY31jPLTNo2EsJVa8X5JC7NeDkM2BOBy/Ex8TV9SPnoBBg=="
+                 length="13673615" />
+    </item>
     <!-- Releases are added here by the release pipeline (macos-release skill) -->
   </channel>
 </rss>
