@@ -7,6 +7,17 @@
     <description>Aura Browser update feed</description>
     <language>en</language>
     <item>
+      <title>Version 0.7.42 (Build 52)</title>
+      <pubDate>Sat, 13 Jun 2026 23:05:20 +0000</pubDate>
+      <sparkle:version>52</sparkle:version>
+      <sparkle:shortVersionString>0.7.42</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/mattewrobles/aura-releases/releases/download/v0.7.42/Aura-0.7.42.dmg"
+                 type="application/octet-stream"
+                 sparkle:edSignature="apy1BInxduXvQ3yTr/pG282AV9qnvRPDwBdIe/gA0sUUdTnEvcnD3ENj3VEstu7lQSO924q6uA01rvsbkXcfDQ=="
+                 length="8133065" />
+    </item>
+    <item>
       <title>Version 0.7.41 (Build 51)</title>
       <pubDate>Sat, 13 Jun 2026 22:59:07 +0000</pubDate>
       <sparkle:version>51</sparkle:version>
