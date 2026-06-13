@@ -8,6 +8,17 @@
     <language>en</language>
     <item>
       <title>Version 0.7.40 (Build 50)</title>
+      <pubDate>Sat, 13 Jun 2026 21:25:27 +0000</pubDate>
+      <sparkle:version>50</sparkle:version>
+      <sparkle:shortVersionString>0.7.40</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/mattewrobles/aura-releases/releases/download/v0.7.40/Aura-0.7.40.dmg"
+                 type="application/octet-stream"
+                 sparkle:edSignature="Z4PhD8CoLrCBTzxEJQZOw7qE7kj88uwUds7wrp0mKnWKos5F0xnY7y5CTwbPPUnEqQ/g5ckMZnrBJEUk8r/HBg=="
+                 length="8121227" />
+    </item>
+    <item>
+      <title>Version 0.7.40 (Build 50)</title>
       <pubDate>Sat, 13 Jun 2026 16:21:26 -0500</pubDate>
       <sparkle:version>50</sparkle:version>
       <sparkle:shortVersionString>0.7.40</sparkle:shortVersionString>
